@@ -1,0 +1,1 @@
+default_app_config = 'base.apps.BaseConfig'#admin panelde installed apssde base.apps.BaseConfig yazmamaq ucundu adi base yazacaqsan yada ready-ni override elyessen
